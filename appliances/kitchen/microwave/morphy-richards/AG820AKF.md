@@ -48,3 +48,6 @@ Cooking principles
 Troubleshooting guide
 Earthing installation
 Product guarantee (1 year warranty)
+
+## Download manual
+[Morphy-ricards-microwave-oven-model-AG820AKF.pdf](Morphy-ricards-microwave-oven-model-AG820AKF.pdf) (SHA256SUM: 72fb4f066ac31fc8dda12c4f73951a3716bd18f0c52e9274d497018ef165a533)
